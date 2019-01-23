@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Prasanna Natarajan</title>
+    <link>https://prasannanatarajan.github.io/tags/web/</link>
+    <description>Recent content in Web on Prasanna Natarajan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://prasannanatarajan.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SNU Earthquake Early Warning System</title>
+      <link>https://prasannanatarajan.github.io/project/snu_eews/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/project/snu_eews/</guid>
+      <description>Crowdsourcing an Earthquake Early Warning System for the Indian Subcontinent (SNU-EEWS) Abstract: Earthquakes are potentially very destructive natural events. The risk from earthquakes is aggravated because they are unpredictable and can cause tremendous loss of life and property within seconds, particularly in dense urban settings. We present our ongoing work to develop a comprehensive earthquake early warning system (EEWS) for the Indian subcontinent. The impetus for this work comes from the fact that India has just 82 seismic stations for a land area of about 3.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Course Projects</title>
+      <link>https://prasannanatarajan.github.io/project/academic_project_undergrad/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/project/academic_project_undergrad/</guid>
+      <description>Projects (Computer Science) - Under Graduate course work 1. Self-Service Portal for Mobile Application development (RMADP) Description: A rapid mobile application development platform where users can drag and drop components into a mobile screen on the portal and build a complete android/ios application.
+Technology Stack: HTML, CSS, JS, Vue.js for View layer, which is hosted on an Apache server. STS server for controller layer. MySQL for model layer. Node.js and bash scripts for build server layer.</description>
+    </item>
+    
+  </channel>
+</rss>

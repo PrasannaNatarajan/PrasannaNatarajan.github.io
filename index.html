@@ -200,6 +200,25 @@
         
 
         <li class="nav-item">
+          <a class="nav-link" href="/#projects" data-target="#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link" href="/#contact" data-target="#contact">
             
             <span>Contact</span>
@@ -275,14 +294,17 @@ background-color: #2962fea1;
   #test{background:rgba(0,0,0,0.5);}
    </style>
 Still Under Development&hellip;
+<div id="app">hi</div></p>
+
 <!-- <div id="test">
   <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
   Latest release
   </a>
 </div> -->
+
 <!-- <div class="mt-3">
   <a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
-</div> --></p>
+</div> -->
 
 <!-- <script async defer src="https://buttons.github.io/buttons.js"></script> -->
 
@@ -290,6 +312,25 @@ Still Under Development&hellip;
 
 <script>  particlesJS("hero", {"particles":{"number":{"value":80,"density":{"enable":true,"value_area":800}},"color":{"value":"#ffffff"},"shape":{"type":"circle","stroke":{"width":0,"color":"#000000"},"polygon":{"nb_sides":5},"image":{"src":"img/github.svg","width":100,"height":100}},"opacity":{"value":0.5,"random":false,"anim":{"enable":false,"speed":1,"opacity_min":0.1,"sync":false}},"size":{"value":3,"random":true,"anim":{"enable":false,"speed":40,"size_min":0.1,"sync":false}},"line_linked":{"enable":true,"distance":150,"color":"#ffffff","opacity":0.4,"width":1},"move":{"enable":true,"speed":6,"direction":"none","random":false,"straight":false,"out_mode":"out","bounce":false,"attract":{"enable":false,"rotateX":600,"rotateY":1200}}},"interactivity":{"detect_on":"canvas","events":{"onhover":{"enable":true,"mode":"repulse"},"onclick":{"enable":true,"mode":"push"},"resize":true},"modes":{"grab":{"distance":400,"line_linked":{"opacity":1}},"bubble":{"distance":400,"size":40,"duration":2,"opacity":8,"speed":3},"repulse":{"distance":200,"duration":0.4},"push":{"particles_nb":4},"remove":{"particles_nb":2}}},"retina_detect":true});
   </script>
+
+<script  src="https://unpkg.com/typewriter-effect@2.3.1/dist/core.js"></script>
+<script> 
+var app = document.getElementById('app');
+console.log(app)
+var typewriter = new Typewriter(app, {
+    loop: true
+});
+
+typewriter.typeString('Hello World!')
+    .pauseFor(2)
+    .deleteAll()
+    .typeString('Strings can be removed')
+    .pauseFor(2)
+    .deleteChars(7)
+    .typeString('<strong>altered!</strong>')
+    .pauseFor(2)
+    .start();
+</script> 
 </p>
     
 
@@ -414,7 +455,7 @@ Still Under Development&hellip;
 
 <h1 id="biography">Biography</h1>
 
-<p>I am a Graduate Student (MS CS) at University of Southern Califronia specialising in Datascience. In my previous internships, I have worked on things ranging from designing a cpu to designing machine learning models.</p>
+<p>I am a Graduate Student (MS CS) at University of Southern California specializing in Data science. In my previous internships, I have worked on things ranging from designing a CPU to designing machine learning models.</p>
 
 
     <div class="row">
@@ -442,7 +483,7 @@ Still Under Development&hellip;
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">MS CS in Datascience, 2020</p>
+              <p class="course">MS CS (Specialization - Data science), 2020</p>
               <p class="institution">University of Southern California</p>
             </div>
           </li>
@@ -746,6 +787,151 @@ Still Under Development&hellip;
     </div>
     
     
+  </div>
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
+  <section id="projects" class="home-section">
+    <div class="container">
+      
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+
+    <h1>Projects</h1>
+    
+
+  </div>
+  <div class="col-xs-12 col-md-8">
+
+
+
+    
+
+    
+
+      
+
+      
+      
+      
+      
+        
+      
+
+      <span class="d-none default-project-filter">*</span>
+
+      
+      
+      <div class="project-toolbar">
+        <div class="project-filters">
+          <div class="btn-toolbar">
+            <div class="btn-group flex-wrap">
+              
+                
+                
+                
+                  
+                
+                <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-Demo" class="btn btn-primary btn-lg">Other</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-Academic" class="btn btn-primary btn-lg">Academic</a>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    
+
+    <div class="row isotope projects-container js-layout-masonry ">
+      
+        
+        
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="col-12 col-md-6 col-lg-4 project-item isotope-item js-id-machine-learning js-id-Android js-id-Web">
+  <div class="card">
+    
+    
+    <a href="/project/snu_eews/"  class="card-image hover-overlay">
+      <img src="/project/snu_eews/featured_hu32e48889739a89ce3af0eb62f08c012b_59630_550x0_resize_q90_box.jpg" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/project/snu_eews/" >SNU Earthquake Early Warning System</a></h4>
+      <div class="card-desription">
+        <p>Crowdsourcing an Earthquake Early Warning System for the Indian Subcontinent (SNU-EEWS).</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="col-12 col-md-6 col-lg-4 project-item isotope-item js-id-Undergraduate js-id-Web js-id-Android js-id-Arduino js-id-Networks js-id-Data-Viz js-id-Academic">
+  <div class="card">
+    
+    
+    <a href="/project/academic_project_undergrad/"  class="card-image hover-overlay">
+      <img src="/project/academic_project_undergrad/featured_hubb41f0ac66df07cf38422f929cd578b8_180219_550x0_resize_q90_box.jpg" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/project/academic_project_undergrad/" >Undergraduate Course Projects</a></h4>
+      <div class="card-desription">
+        <p>All the major computer science projects done for my undergraduate (B.Tech) courses.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+    </div>
+
   </div>
 </div>
 

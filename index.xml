@@ -10,5 +10,192 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>SNU Earthquake Early Warning System</title>
+      <link>https://prasannanatarajan.github.io/project/snu_eews/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/project/snu_eews/</guid>
+      <description>
+
+&lt;h1 id=&#34;crowdsourcing-an-earthquake-early-warning-system-for-the-indian-subcontinent-snu-eews&#34;&gt;Crowdsourcing an Earthquake Early Warning System for the Indian Subcontinent (SNU-EEWS)&lt;/h1&gt;
+
+&lt;h3 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Earthquakes are potentially very destructive natural events. The risk from earthquakes is aggravated because they are unpredictable and can cause tremendous loss of life and property within seconds, particularly in dense urban settings. We present our ongoing work to develop a comprehensive earthquake early warning system (EEWS) for the Indian subcontinent. The impetus for this work comes from the fact that India has just 82 seismic stations for a land area of about 3.2 million sq. km, with no dedicated EEWS, plus low-cost accelerometers are now easily available, and smartphones have a deep penetration. The planned system will use a network of mobile smart phones and stationary low cost MEMS based strong motion sensors. The main components of this project are: creating a high-density network of low-cost sensors, real-time transmission of data, algorithms to analyze ground shaking data, compute ground motion characteristics, and determine if the source of shaking is an earthquake.&lt;/p&gt;
+
+&lt;p&gt;The proposed SNU - EEW system leverages many enabling technologies to satisfy the anticipated density and cost targets. It can broadly be seen as three different components:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Ground motion data sources using low cost MEMS sensors .
+
+&lt;ul&gt;
+&lt;li&gt;Static – using stationary nodes&lt;/li&gt;
+&lt;li&gt;Mobile – using smartphones&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Algorithms for detecting P-waves &amp;amp; estimating earthquake features.&lt;/li&gt;
+&lt;li&gt;A central server to poll the sensor network, calculate secondary earthquake features and broadcast warnings.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;my-contribution&#34;&gt;&lt;strong&gt;My Contribution&lt;/strong&gt;:&lt;/h3&gt;
+
+&lt;p&gt;Designed the high level architecture of SNU EEWS. The architecture is shown below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./1548226989077.png&#34; alt=&#34;1548226989077&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Built the android application that reads the accelerometer readings and then:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Plots the real time accelerometer readings.&lt;/li&gt;
+&lt;li&gt;Streams the accelerometer readings to the server in the background.&lt;/li&gt;
+&lt;li&gt;Receives alerts from server, if the server detects an earthquake.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;./1548228073226.png&#34; alt=&#34;1548228073226&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A poster was presented at International conference of Sustainable Infrastructure, New York | October 26-28, 2017. Please find the &lt;a href=&#34;./SNU_EEWS final.pdf&#34;&gt;paper&lt;/a&gt; and &lt;a href=&#34;./SNU_EEWS.pdf&#34;&gt;poster&lt;/a&gt; here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Course Projects</title>
+      <link>https://prasannanatarajan.github.io/project/academic_project_undergrad/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/project/academic_project_undergrad/</guid>
+      <description>
+
+&lt;h1 id=&#34;projects-computer-science-under-graduate-course-work&#34;&gt;Projects (Computer Science) - Under Graduate course work&lt;/h1&gt;
+
+&lt;h2 id=&#34;1-self-service-portal-for-mobile-application-development-rmadp&#34;&gt;1. Self-Service Portal for Mobile Application development (RMADP)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: A rapid mobile application development platform where users can drag and drop components into a mobile screen on the portal and build a complete android/ios application.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology Stack&lt;/strong&gt;: HTML, CSS, JS, Vue.js for View layer, which is hosted on an Apache server. STS server for controller layer. MySQL for model layer. Node.js and bash scripts for build server layer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Demo Video&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;iframe src=&#34;https://player.vimeo.com/video/267376074&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;strong&gt;Presentation&lt;/strong&gt;: &lt;a href=&#34;./SSP_presentation.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Report&lt;/strong&gt;: &lt;a href=&#34;./SSP_report.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Team Members&lt;/strong&gt;: &lt;a href=&#34;https://www.linkedin.com/in/shouryaps/&#34; target=&#34;_blank&#34;&gt;Shourya Pratap Singh&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/sneha-agarwal-b75032138/&#34; target=&#34;_blank&#34;&gt;Sneha Agarwal&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/harshit-anand-40a077101/&#34; target=&#34;_blank&#34;&gt;Harshit Anand&lt;/a&gt;, Sneha Reddy&lt;/p&gt;
+
+&lt;h2 id=&#34;2-ioyou-debt-manager&#34;&gt;2. IOYou - Debt Manager&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: An android application that could act as a debt manager.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Course&lt;/strong&gt;: DBMS&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology Stack&lt;/strong&gt;: Android and SQLite for front end, PHP and MySQL for backend.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;: &lt;a href=&#34;./IOU.pptx&#34;&gt;ppt&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Repo&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PrasannaNatarajan/IOU_dbms-&#34; target=&#34;_blank&#34;&gt;IOYou&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Team Members&lt;/strong&gt;: &lt;a href=&#34;//github.com/vedantcj&#34; target=&#34;_blank&#34;&gt;Vedant Chakravarthy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My Contribution&lt;/strong&gt;: Built and hosted the backend system. Made the SQLite connection in android. Also wrote the sync functionality.&lt;/p&gt;
+
+&lt;h2 id=&#34;3-symphonia-sync-your-music&#34;&gt;3. Symphonia - Sync your music&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: A synchronous music player for everyone. Music listeners encounter the problem that the volume of any individual device they own is often too low. Although the combined volume that can be obtained on all the devices available is adequate for their needs, this is under utilized due to a lack of the ability to play the music synchronously across all the devices.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Course&lt;/strong&gt;: Software Engineering&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology Stack&lt;/strong&gt;: Android&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presentation&lt;/strong&gt;: &lt;a href=&#34;./Symphonia.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Repo&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PrasannaNatarajan/Symphonia&#34; target=&#34;_blank&#34;&gt;Symphonia&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Team Members&lt;/strong&gt;: &lt;a href=&#34;//github.com/AnirudhBadri&#34; target=&#34;_blank&#34;&gt;Anirudh Badri&lt;/a&gt;, &lt;a href=&#34;//github.com/hariiprasath&#34; target=&#34;_blank&#34;&gt;Hari Prasath&lt;/a&gt;, &lt;a href=&#34;//github.com/vedantcj&#34; target=&#34;_blank&#34;&gt;Vedant Chakravarthy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My Contribution&lt;/strong&gt;: Made the basic music player in android. Worked on formulating a custom protocol for synchronized playing and implemented parts of it.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-internet-tv-radio-a-collge-wide-multicast&#34;&gt;4. Internet TV/radio - a collge wide multicast&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: An Internet TV/radio application that uses any source multicast (ASM). The first part of this project focuses on socket programming and the next part on making a GUI for the player. We used cvlc/ffplay for playing the received music and for GUI.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Course&lt;/strong&gt;: Computer Networks&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology Stack&lt;/strong&gt;: C&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Report&lt;/strong&gt;: &lt;a href=&#34;./Internet_Radio.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Repo&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PrasannaNatarajan/NetworksAssignment&#34; target=&#34;_blank&#34;&gt;InternetRadio/TV&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Team Members&lt;/strong&gt;: &lt;a href=&#34;//github.com/sm515&#34; target=&#34;_blank&#34;&gt;Siddhart Mitra&lt;/a&gt;, &lt;a href=&#34;//github.com/sridhar1896&#34; target=&#34;_blank&#34;&gt;Sridhar R Ramanujam&lt;/a&gt;, &lt;a href=&#34;//github.com/vedantcj&#34; target=&#34;_blank&#34;&gt;Vedant Chakravarthy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My Contribution&lt;/strong&gt;: Worked on serializing and sending a multimedia stream.&lt;/p&gt;
+
+&lt;h2 id=&#34;5-us-pollution-data-analysis-and-visualization&#34;&gt;5. US-Pollution data analysis and visualization&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: A complete cleaning and visualization of us-pollution data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Course&lt;/strong&gt;: Data mining and warehousing&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology Stack&lt;/strong&gt;: R, Shiny&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Report&lt;/strong&gt;: &lt;a href=&#34;./R_pollution.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Repo&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PrasannaNatarajan/CSD342-Data-Mining/tree/master/R/graded%20lab&#34; target=&#34;_blank&#34;&gt;US_Pollution_data_analysis&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data Source&lt;/strong&gt;: &lt;a href=&#34;https://aqs.epa.gov/aqsweb/documents/data_mart_welcome.html&#34; target=&#34;_blank&#34;&gt;https://aqs.epa.gov/aqsweb/documents/data_mart_welcome.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Demo&lt;/strong&gt;: &lt;a href=&#34;https://prasanna-dm-vis.shinyapps.io/us-pollution/&#34; target=&#34;_blank&#34;&gt;live_demo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Team Members&lt;/strong&gt;: &lt;a href=&#34;//github.com/atish-maj&#34; target=&#34;_blank&#34;&gt;Atish Majumdar&lt;/a&gt;, &lt;a href=&#34;//github.com/FlameFractal&#34; target=&#34;_blank&#34;&gt;Vishal Gauba&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My Contribution&lt;/strong&gt;: Made functions in R to read cleaned data and visualize (choropleth, donut chart) the data. Also hosted the shiny app in shiny-apps.io.&lt;/p&gt;
+
+&lt;h2 id=&#34;6-catnap-sleep-analyzer&#34;&gt;6. CatNap - Sleep Analyzer&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: This project lies in the domain of smart homes, as it monitors disturbances in light and sound
+while one is sleeping and provides relevant information. When sound increases, the system’s volume of white noise also increases aiding in one&amp;rsquo;s sleep as validated by many research communities. This works best with bluetooth earphones.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Course&lt;/strong&gt;: Wireless Sensor Networks&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology Stack&lt;/strong&gt;: Arduino code (C++) for getting values from sensors and processing for GUI. Python for analyzing and plotting the received data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Report&lt;/strong&gt;: &lt;a href=&#34;./WSN_CatNap.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Repo&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PrasannaNatarajan/CSD_337_WSN/tree/master/Catnap%20-%20Project&#34; target=&#34;_blank&#34;&gt;CatNap&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Team Members&lt;/strong&gt;: &lt;a href=&#34;//github.com/atish-maj&#34; target=&#34;_blank&#34;&gt;Atish Majumdar&lt;/a&gt;, &lt;a href=&#34;//github.com/vedantcj&#34; target=&#34;_blank&#34;&gt;Vedant Chakravarthy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My Contribution&lt;/strong&gt;: Wrote arduino code for reading the sensor values (LDR and Sound Sensor). Wrote a python script for plotting the received data from sensors.&lt;/p&gt;
+
+&lt;h2 id=&#34;7-snu-dashboard&#34;&gt;7. SNU-Dashboard&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: An online portal where users can know all the happenings around Shiv Nadar University. Club activities to cab pool and lost and found all at this one place.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology Stack&lt;/strong&gt;: HTML, CSS, jquery for front end. MongoDB as our database. Node.js for backend server.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Repo&lt;/strong&gt;:&lt;a href=&#34;https://github.com/FlameFractal/SNU-Dashboard&#34; target=&#34;_blank&#34;&gt;snudashboard&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Demo&lt;/strong&gt;: &lt;a href=&#34;https://snu-dashboardd.herokuapp.com/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Team Members&lt;/strong&gt;: &lt;a href=&#34;//github.com/hariiprasath&#34; target=&#34;_blank&#34;&gt;Hari Prasath&lt;/a&gt;, &lt;a href=&#34;//github.com/vedantcj&#34; target=&#34;_blank&#34;&gt;Vedant Chakravarthy&lt;/a&gt;, &lt;a href=&#34;//github.com/FlameFractal&#34; target=&#34;_blank&#34;&gt;Vishal Gauba&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My Contribution&lt;/strong&gt;: Set up and hosted Mongo DB database instance for the forums. Customized nodebb forum to suite our theme.&lt;/p&gt;
+
+&lt;h2 id=&#34;8-bookbuy-website&#34;&gt;8. Bookbuy Website&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: An e-commerce website for selling and buying books.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology Stack&lt;/strong&gt;: HTML, CSS, jquery for front end. MySQL as our database. PHP for backend server.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Demo&lt;/strong&gt;: &lt;a href=&#34;https://bookbuy.hol.es/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Team Members&lt;/strong&gt;: Pranjal Mathur, Prerna, Pulkit Gupta.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My Contribution&lt;/strong&gt;: Wrote backend PHP, especially connected it to MySQL database.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

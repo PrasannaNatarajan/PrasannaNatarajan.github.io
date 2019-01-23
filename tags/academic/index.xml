@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic on Prasanna Natarajan</title>
+    <link>https://prasannanatarajan.github.io/tags/academic/</link>
+    <description>Recent content in Academic on Prasanna Natarajan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://prasannanatarajan.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Undergraduate Course Projects</title>
+      <link>https://prasannanatarajan.github.io/project/academic_project_undergrad/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/project/academic_project_undergrad/</guid>
+      <description>Projects (Computer Science) - Under Graduate course work 1. Self-Service Portal for Mobile Application development (RMADP) Description: A rapid mobile application development platform where users can drag and drop components into a mobile screen on the portal and build a complete android/ios application.
+Technology Stack: HTML, CSS, JS, Vue.js for View layer, which is hosted on an Apache server. STS server for controller layer. MySQL for model layer. Node.js and bash scripts for build server layer.</description>
+    </item>
+    
+  </channel>
+</rss>

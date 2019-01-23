@@ -27,8 +27,8 @@
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://prasannanatarajan.github.io/home/hero/</guid>
-      <description> canvas{ display: block; vertical-align: bottom; position:absolute; top:-2%; right:0%; } #test{background:rgba(0,0,0,0.5);}  Still Under Development&amp;hellip; Latest release   -- Star  --
- --   particlesJS(&#34;hero&#34;, {&#34;particles&#34;:{&#34;number&#34;:{&#34;value&#34;:80,&#34;density&#34;:{&#34;enable&#34;:true,&#34;value_area&#34;:800}},&#34;color&#34;:{&#34;value&#34;:&#34;#ffffff&#34;},&#34;shape&#34;:{&#34;type&#34;:&#34;circle&#34;,&#34;stroke&#34;:{&#34;width&#34;:0,&#34;color&#34;:&#34;#000000&#34;},&#34;polygon&#34;:{&#34;nb_sides&#34;:5},&#34;image&#34;:{&#34;src&#34;:&#34;img/github.svg&#34;,&#34;width&#34;:100,&#34;height&#34;:100}},&#34;opacity&#34;:{&#34;value&#34;:0.5,&#34;random&#34;:false,&#34;anim&#34;:{&#34;enable&#34;:false,&#34;speed&#34;:1,&#34;opacity_min&#34;:0.1,&#34;sync&#34;:false}},&#34;size&#34;:{&#34;value&#34;:3,&#34;random&#34;:true,&#34;anim&#34;:{&#34;enable&#34;:false,&#34;speed&#34;:40,&#34;size_min&#34;:0.1,&#34;sync&#34;:false}},&#34;line_linked&#34;:{&#34;enable&#34;:true,&#34;distance&#34;:150,&#34;color&#34;:&#34;#ffffff&#34;,&#34;opacity&#34;:0.4,&#34;width&#34;:1},&#34;move&#34;:{&#34;enable&#34;:true,&#34;speed&#34;:6,&#34;direction&#34;:&#34;none&#34;,&#34;random&#34;:false,&#34;straight&#34;:false,&#34;out_mode&#34;:&#34;out&#34;,&#34;bounce&#34;:false,&#34;attract&#34;:{&#34;enable&#34;:false,&#34;rotateX&#34;:600,&#34;rotateY&#34;:1200}}},&#34;interactivity&#34;:{&#34;detect_on&#34;:&#34;canvas&#34;,&#34;events&#34;:{&#34;onhover&#34;:{&#34;enable&#34;:true,&#34;mode&#34;:&#34;repulse&#34;},&#34;onclick&#34;:{&#34;enable&#34;:true,&#34;mode&#34;:&#34;push&#34;},&#34;resize&#34;:true},&#34;modes&#34;:{&#34;grab&#34;:{&#34;distance&#34;:400,&#34;line_linked&#34;:{&#34;opacity&#34;:1}},&#34;bubble&#34;:{&#34;distance&#34;:400,&#34;size&#34;:40,&#34;duration&#34;:2,&#34;opacity&#34;:8,&#34;speed&#34;:3},&#34;repulse&#34;:{&#34;distance&#34;:200,&#34;duration&#34;:0.4},&#34;push&#34;:{&#34;particles_nb&#34;:4},&#34;remove&#34;:{&#34;particles_nb&#34;:2}}},&#34;retina_detect&#34;:true});  </description>
+      <description> canvas{ display: block; vertical-align: bottom; position:absolute; top:-2%; right:0%; } #test{background:rgba(0,0,0,0.5);}  Still Under Development&amp;hellip; hi
+Latest release   -- Star  --  --   particlesJS(&#34;hero&#34;, {&#34;particles&#34;:{&#34;number&#34;:{&#34;value&#34;:80,&#34;density&#34;:{&#34;enable&#34;:true,&#34;value_area&#34;:800}},&#34;color&#34;:{&#34;value&#34;:&#34;#ffffff&#34;},&#34;shape&#34;:{&#34;type&#34;:&#34;circle&#34;,&#34;stroke&#34;:{&#34;width&#34;:0,&#34;color&#34;:&#34;#000000&#34;},&#34;polygon&#34;:{&#34;nb_sides&#34;:5},&#34;image&#34;:{&#34;src&#34;:&#34;img/github.svg&#34;,&#34;width&#34;:100,&#34;height&#34;:100}},&#34;opacity&#34;:{&#34;value&#34;:0.5,&#34;random&#34;:false,&#34;anim&#34;:{&#34;enable&#34;:false,&#34;speed&#34;:1,&#34;opacity_min&#34;:0.1,&#34;sync&#34;:false}},&#34;size&#34;:{&#34;value&#34;:3,&#34;random&#34;:true,&#34;anim&#34;:{&#34;enable&#34;:false,&#34;speed&#34;:40,&#34;size_min&#34;:0.1,&#34;sync&#34;:false}},&#34;line_linked&#34;:{&#34;enable&#34;:true,&#34;distance&#34;:150,&#34;color&#34;:&#34;#ffffff&#34;,&#34;opacity&#34;:0.4,&#34;width&#34;:1},&#34;move&#34;:{&#34;enable&#34;:true,&#34;speed&#34;:6,&#34;direction&#34;:&#34;none&#34;,&#34;random&#34;:false,&#34;straight&#34;:false,&#34;out_mode&#34;:&#34;out&#34;,&#34;bounce&#34;:false,&#34;attract&#34;:{&#34;enable&#34;:false,&#34;rotateX&#34;:600,&#34;rotateY&#34;:1200}}},&#34;interactivity&#34;:{&#34;detect_on&#34;:&#34;canvas&#34;,&#34;events&#34;:{&#34;onhover&#34;:{&#34;enable&#34;:true,&#34;mode&#34;:&#34;repulse&#34;},&#34;onclick&#34;:{&#34;enable&#34;:true,&#34;mode&#34;:&#34;push&#34;},&#34;resize&#34;:true},&#34;modes&#34;:{&#34;grab&#34;:{&#34;distance&#34;:400,&#34;line_linked&#34;:{&#34;opacity&#34;:1}},&#34;bubble&#34;:{&#34;distance&#34;:400,&#34;size&#34;:40,&#34;duration&#34;:2,&#34;opacity&#34;:8,&#34;speed&#34;:3},&#34;repulse&#34;:{&#34;distance&#34;:200,&#34;duration&#34;:0.4},&#34;push&#34;:{&#34;particles_nb&#34;:4},&#34;remove&#34;:{&#34;particles_nb&#34;:2}}},&#34;retina_detect&#34;:true});    var app = document.getElementById(&#39;app&#39;); console.log(app) var typewriter = new Typewriter(app, { loop: true }); typewriter.typeString(&#39;Hello World!&#39;) .pauseFor(2) .deleteAll() .typeString(&#39;Strings can be removed&#39;) .pauseFor(2) .deleteChars(7) .typeString(&#39;altered!&#39;) .pauseFor(2) .start();  </description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://prasannanatarajan.github.io/home/about/</guid>
-      <description>Biography I am a Graduate Student (MS CS) at University of Southern Califronia specialising in Datascience. In my previous internships, I have worked on things ranging from designing a cpu to designing machine learning models.</description>
+      <description>Biography I am a Graduate Student (MS CS) at University of Southern California specializing in Data science. In my previous internships, I have worked on things ranging from designing a CPU to designing machine learning models.</description>
     </item>
     
     <item>
@@ -55,6 +55,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://prasannanatarajan.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://prasannanatarajan.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/home/projects/</guid>
       <description></description>
     </item>
     
@@ -113,15 +122,6 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://prasannanatarajan.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://prasannanatarajan.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Custom Section</title>
       <link>https://prasannanatarajan.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -137,7 +137,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://prasannanatarajan.github.io/home/tags/</guid>
-      <description></description>
+      <description>Machine Learning   Datascience</description>
     </item>
     
     <item>
