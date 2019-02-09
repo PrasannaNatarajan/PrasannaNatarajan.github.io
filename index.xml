@@ -11,6 +11,72 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>RoadEye</title>
+      <link>https://prasannanatarajan.github.io/project/roadeye/</link>
+      <pubDate>Fri, 08 Feb 2019 14:28:22 -0800</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/project/roadeye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keyword Search in Spatial Databases</title>
+      <link>https://prasannanatarajan.github.io/project/keyword_search_in_spatial_databases/</link>
+      <pubDate>Fri, 08 Feb 2019 14:28:04 -0800</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/project/keyword_search_in_spatial_databases/</guid>
+      <description>
+
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;In a database of spatial objects, every tuple is associated with certain information represented by keywords. This paper introduces a new type of spatial keyword query, known as the m-closest keywords (mCK) query. The aim of the mCK query is to find tuples which are located in the closest spatial proximity that align with the user-entered keywords. In order to efficiently process mCK queries, a new index is introduced, known as the bR*-tree, which is an extension of the R * tree. Following this, a priori based search approaches are used to decrease the total search space. There is extensive research being conducted on various forms of spatial queries, above and beyond the general one- nearest neighbour queries, range queries, and spatial joins. Keyword based queries have received significant attention in the research community. This paper presents a novel query, the m-closest keywords (mCK) query. An mCK query returns the closest tuples in any space which match certain keywords, given a set of m keywords as input. The main focus of the paper is to apply this mCK query in searching by document. A given tuple can be associated with as many as m keywords, hence the total number of responses that can be possibly returned from a mCK query is at most m. A problem which arises from this is that the value of m might become very large while searching by document, in which case the naive mCK query processing would become very computationally as well as temporally intensive, as the number of possibilities to examine all possible set of m tuples of objects matching the keywords would be needed. This process is extremely expensive and hence is not a good approach. This paper proposes to improve upon this by using a new index, known as the bR&lt;em&gt;- tree, for processing queries. The bR&lt;/em&gt;- tree extends the R*-tree to efficiently summarize keywords and their spatial information. Following this, a-priori based search strategies are used to significantly reduce the search space. For application of said search strategies, some constraints are required to prune the dataset. The paper defines two such monotone constraints, the distance mutex and the keyword mutex. Finally, using all the above, the algorithm is tested and is found to be effective in reducing mCK query response time, but also provides scalability with regards to the number of keywords in the query.&lt;/p&gt;
+
+&lt;p&gt;The full paper can be found &lt;a href=&#34;https://github.com/PrasannaNatarajan/lit_review/blob/master/Atish_Prasanna_Vedant_mCK.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information Theory and Nueral Coding</title>
+      <link>https://prasannanatarajan.github.io/project/information_theory_and_nueral_coding/</link>
+      <pubDate>Fri, 08 Feb 2019 14:27:34 -0800</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/project/information_theory_and_nueral_coding/</guid>
+      <description>
+
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;This goal of this paper is to do a literature review in the intersection of the fields of neural information transfer and information theory – Neural Coding and Information Theory. This paper looks at three papers and pursues this topic with a focus on the Information Theory-related concepts.&lt;/p&gt;
+
+&lt;p&gt;The full paper can be found &lt;a href=&#34;https://github.com/PrasannaNatarajan/lit_review/blob/master/IT_and_nueral_coding_prasanna_vedant_paper.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In Network Data Aggregation and Processing</title>
+      <link>https://prasannanatarajan.github.io/project/in_network_data_aggregation_and_processing/</link>
+      <pubDate>Fri, 08 Feb 2019 14:27:08 -0800</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/project/in_network_data_aggregation_and_processing/</guid>
+      <description>
+
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+
+&lt;p&gt;In this paper, we cover various aspects of in-network data aggregation and processing in wireless sensor networks. We survey existing literature about energy efficiency, security, compression and query processing methods, looking at multiple existing research papers across these domains, identifying and highlighting key research objectives, methodologies and finally discuss how they build upon or improve previously existing solutions. Finally, we discuss future research goals in each of the areas.&lt;/p&gt;
+
+&lt;p&gt;The full paper can be found &lt;a href=&#34;https://github.com/PrasannaNatarajan/lit_review/blob/master/TP_WSN2017_Group_04.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of branch prediction</title>
+      <link>https://prasannanatarajan.github.io/project/analysis_of_branch_prediction/</link>
+      <pubDate>Fri, 08 Feb 2019 02:42:20 -0800</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/project/analysis_of_branch_prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SNU Earthquake Early Warning System</title>
       <link>https://prasannanatarajan.github.io/project/snu_eews/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>

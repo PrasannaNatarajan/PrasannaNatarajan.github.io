@@ -7,10 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Feb 2019 14:28:22 -0800</lastBuildDate>
     
 	<atom:link href="https://prasannanatarajan.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RoadEye</title>
+      <link>https://prasannanatarajan.github.io/project/roadeye/</link>
+      <pubDate>Fri, 08 Feb 2019 14:28:22 -0800</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/project/roadeye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keyword Search in Spatial Databases</title>
+      <link>https://prasannanatarajan.github.io/project/keyword_search_in_spatial_databases/</link>
+      <pubDate>Fri, 08 Feb 2019 14:28:04 -0800</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/project/keyword_search_in_spatial_databases/</guid>
+      <description>Introduction In a database of spatial objects, every tuple is associated with certain information represented by keywords. This paper introduces a new type of spatial keyword query, known as the m-closest keywords (mCK) query. The aim of the mCK query is to find tuples which are located in the closest spatial proximity that align with the user-entered keywords. In order to efficiently process mCK queries, a new index is introduced, known as the bR*-tree, which is an extension of the R * tree.</description>
+    </item>
+    
+    <item>
+      <title>Information Theory and Nueral Coding</title>
+      <link>https://prasannanatarajan.github.io/project/information_theory_and_nueral_coding/</link>
+      <pubDate>Fri, 08 Feb 2019 14:27:34 -0800</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/project/information_theory_and_nueral_coding/</guid>
+      <description>Abstract This goal of this paper is to do a literature review in the intersection of the fields of neural information transfer and information theory – Neural Coding and Information Theory. This paper looks at three papers and pursues this topic with a focus on the Information Theory-related concepts.
+The full paper can be found here.</description>
+    </item>
+    
+    <item>
+      <title>In Network Data Aggregation and Processing</title>
+      <link>https://prasannanatarajan.github.io/project/in_network_data_aggregation_and_processing/</link>
+      <pubDate>Fri, 08 Feb 2019 14:27:08 -0800</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/project/in_network_data_aggregation_and_processing/</guid>
+      <description>Abstract In this paper, we cover various aspects of in-network data aggregation and processing in wireless sensor networks. We survey existing literature about energy efficiency, security, compression and query processing methods, looking at multiple existing research papers across these domains, identifying and highlighting key research objectives, methodologies and finally discuss how they build upon or improve previously existing solutions. Finally, we discuss future research goals in each of the areas.</description>
+    </item>
     
     <item>
       <title>Undergraduate Course Projects</title>
