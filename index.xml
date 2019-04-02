@@ -239,7 +239,7 @@ while one is sleeping and provides relevant information. When sound increases, t
 
 &lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: An online portal where users can know all the happenings around Shiv Nadar University. Club activities to cab pool and lost and found all at this one place.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Technology Stack&lt;/strong&gt;: HTML, CSS, jquery for front end. MongoDB as our database. Node.js for backend server.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technology Stack&lt;/strong&gt;: HTML, CSS, AngularJS for front end. MongoDB as our database. Node.js for backend server.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Repo&lt;/strong&gt;:&lt;a href=&#34;https://github.com/FlameFractal/SNU-Dashboard&#34; target=&#34;_blank&#34;&gt;snudashboard&lt;/a&gt;&lt;/p&gt;
 
@@ -253,7 +253,7 @@ while one is sleeping and provides relevant information. When sound increases, t
 
 &lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;: An e-commerce website for selling and buying books.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Technology Stack&lt;/strong&gt;: HTML, CSS, jquery for front end. MySQL as our database. PHP for backend server.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technology Stack&lt;/strong&gt;: HTML, CSS, AngularJS for front end. MySQL as our database. PHP for backend server.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Demo&lt;/strong&gt;: &lt;a href=&#34;https://bookbuy.hol.es/&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
