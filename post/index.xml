@@ -12,5 +12,31 @@
 	<atom:link href="https://prasannanatarajan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Tensorflow</title>
+      <link>https://prasannanatarajan.github.io/post/tensorflow/</link>
+      <pubDate>Tue, 14 May 2019 13:40:20 -0700</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/post/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://prasannanatarajan.github.io/post/deep_learning/</link>
+      <pubDate>Mon, 13 May 2019 23:44:25 -0700</pubDate>
+      
+      <guid>https://prasannanatarajan.github.io/post/deep_learning/</guid>
+      <description>Notes: Introduction to Deep Learning Table of Contents    Pre-Deep Learning (Basics) Linear Models as the simplest Neural Networks They are the building block for Neural Networks.
+What&amp;rsquo;s the difference between non machine learning programming and machine learning?
+According to Lawrence Morley (Google AI),
+Non Machine Learning programming (traditional programming):
+input: Rules and Data
+output: Answers
+Machine learning (at least supervised learning):
+input: Answers and Data
+output: Rules</description>
+    </item>
+    
   </channel>
 </rss>
